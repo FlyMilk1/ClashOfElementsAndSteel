@@ -1,0 +1,14 @@
+ManifestFileVersion: 0
+CRC: 1083524064
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: icons
+      Dependencies:
+        Dependency_0: knights
+    Info_1:
+      Name: knights
+      Dependencies: {}
+    Info_2:
+      Name: text
+      Dependencies: {}

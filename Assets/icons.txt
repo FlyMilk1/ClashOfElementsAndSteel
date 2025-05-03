@@ -1,0 +1,16 @@
+Null
+Water2 Fire3 Plant2 null0
+Fire2 Water2 Plant3 null0
+Plant3 Water3 Fire2 null0
+Fire3 Plant2 Water3 null0
+Water3 Fire2 Plant3 null0
+Water3 Plant3 Fire2 null0
+Fire3 Plant3 Water3 null0
+Fire1 Water3 Plant3 null0
+Plant3 Fire3 Water3 null0
+Water3 Fire3 Plant3 null0
+Water4 Plant3 Fire3 null0
+Plant3 Water4 Fire3 null0
+Fire4 Plant3 Water3 null0
+Fire3 Water4 Plant3 null0
+Plant4 Water3 Fire3 null0

@@ -1,0 +1,16 @@
+Null
+Fire Fire Water Plant Water Plant Fire Null
+Plant Plant Water Fire Water Fire Plant Null
+Fire Fire Fire Water Plant Water Plant Null
+Water Water Plant Fire Plant Fire Water Null
+Plant Plant Plant Fire Water Fire Water Null
+Fire Plant Water Fire Plant Water Fire Plant Null
+Water Water Water Plant Fire Plant Fire Plant Null
+Plant Fire Water Plant Fire Water Plant Fire Null
+Fire Water Plant Fire Water Plant Fire Water Null
+Plant Plant Plant Fire Fire Water Water Water Null
+Fire Plant Water Fire Plant Water Fire Plant Water Fire  Null
+Fire Fire Fire Plant Plant Water Water Water Fire Fire Null
+Water Plant Fire Water Plant Fire Water Plant Fire Water Null
+Plant Plant Plant Water Water Fire Fire Fire Plant Plant Null
+Fire Plant Water Fire Plant Water Fire Plant Water Fire Null
